@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXuanThu\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu\bin\Debug\net5.0\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.exe
+G:\Project\LearnCsharpWithXuanThu\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu\bin\Debug\net5.0\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.deps.json
+G:\Project\LearnCsharpWithXuanThu\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu\bin\Debug\net5.0\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.runtimeconfig.json
+G:\Project\LearnCsharpWithXuanThu\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu\bin\Debug\net5.0\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXuanThu\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu\bin\Debug\net5.0\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.dll
+G:\Project\LearnCsharpWithXuanThu\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu\bin\Debug\net5.0\ref\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.dll
+G:\Project\LearnCsharpWithXuanThu\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu\bin\Debug\net5.0\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.pdb
+G:\Project\LearnCsharpWithXuanThu\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu\obj\Debug\net5.0\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXuanThu\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu\obj\Debug\net5.0\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXuanThu\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu\obj\Debug\net5.0\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu\obj\Debug\net5.0\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXuanThu\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu\obj\Debug\net5.0\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu\obj\Debug\net5.0\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.dll
+G:\Project\LearnCsharpWithXuanThu\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu\obj\Debug\net5.0\ref\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.dll
+G:\Project\LearnCsharpWithXuanThu\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu\obj\Debug\net5.0\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.pdb
+G:\Project\LearnCsharpWithXuanThu\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu\obj\Debug\net5.0\Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.genruntimeconfig.cache

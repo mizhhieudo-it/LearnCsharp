@@ -1,0 +1,42 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu/Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+                "${workspaceFolder}/Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu/Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+                "${workspaceFolder}/Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu/Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

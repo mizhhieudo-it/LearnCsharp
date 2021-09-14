@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Bài2_Biến_Hằng_số_Kiểu_Dữ_Liệu_và_nhập_Xuất_dữ_liệu</RootNamespace>
+  </PropertyGroup>
+
+</Project>

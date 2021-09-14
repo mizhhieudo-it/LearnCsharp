@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu/1.0.0": {
+        "runtime": {
+          "Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bài2_Biến Hằng số Kiểu Dữ Liệu và nhập Xuất dữ liệu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
