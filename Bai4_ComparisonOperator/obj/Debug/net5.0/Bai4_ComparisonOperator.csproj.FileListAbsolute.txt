@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXuanThu\Bai4_ComparisonOperator\bin\Debug\net5.0\Bai4_ComparisonOperator.exe
+G:\Project\LearnCsharpWithXuanThu\Bai4_ComparisonOperator\bin\Debug\net5.0\Bai4_ComparisonOperator.deps.json
+G:\Project\LearnCsharpWithXuanThu\Bai4_ComparisonOperator\bin\Debug\net5.0\Bai4_ComparisonOperator.runtimeconfig.json
+G:\Project\LearnCsharpWithXuanThu\Bai4_ComparisonOperator\bin\Debug\net5.0\Bai4_ComparisonOperator.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXuanThu\Bai4_ComparisonOperator\bin\Debug\net5.0\Bai4_ComparisonOperator.dll
+G:\Project\LearnCsharpWithXuanThu\Bai4_ComparisonOperator\bin\Debug\net5.0\ref\Bai4_ComparisonOperator.dll
+G:\Project\LearnCsharpWithXuanThu\Bai4_ComparisonOperator\bin\Debug\net5.0\Bai4_ComparisonOperator.pdb
+G:\Project\LearnCsharpWithXuanThu\Bai4_ComparisonOperator\obj\Debug\net5.0\Bai4_ComparisonOperator.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXuanThu\Bai4_ComparisonOperator\obj\Debug\net5.0\Bai4_ComparisonOperator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXuanThu\Bai4_ComparisonOperator\obj\Debug\net5.0\Bai4_ComparisonOperator.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bai4_ComparisonOperator\obj\Debug\net5.0\Bai4_ComparisonOperator.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXuanThu\Bai4_ComparisonOperator\obj\Debug\net5.0\Bai4_ComparisonOperator.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bai4_ComparisonOperator\obj\Debug\net5.0\Bai4_ComparisonOperator.dll
+G:\Project\LearnCsharpWithXuanThu\Bai4_ComparisonOperator\obj\Debug\net5.0\ref\Bai4_ComparisonOperator.dll
+G:\Project\LearnCsharpWithXuanThu\Bai4_ComparisonOperator\obj\Debug\net5.0\Bai4_ComparisonOperator.pdb
+G:\Project\LearnCsharpWithXuanThu\Bai4_ComparisonOperator\obj\Debug\net5.0\Bai4_ComparisonOperator.genruntimeconfig.cache
