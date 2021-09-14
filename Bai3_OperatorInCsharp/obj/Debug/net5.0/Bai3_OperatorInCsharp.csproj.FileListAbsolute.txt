@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXuanThu\Bai3_OperatorInCsharp\bin\Debug\net5.0\Bai3_OperatorInCsharp.exe
+G:\Project\LearnCsharpWithXuanThu\Bai3_OperatorInCsharp\bin\Debug\net5.0\Bai3_OperatorInCsharp.deps.json
+G:\Project\LearnCsharpWithXuanThu\Bai3_OperatorInCsharp\bin\Debug\net5.0\Bai3_OperatorInCsharp.runtimeconfig.json
+G:\Project\LearnCsharpWithXuanThu\Bai3_OperatorInCsharp\bin\Debug\net5.0\Bai3_OperatorInCsharp.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXuanThu\Bai3_OperatorInCsharp\bin\Debug\net5.0\Bai3_OperatorInCsharp.dll
+G:\Project\LearnCsharpWithXuanThu\Bai3_OperatorInCsharp\bin\Debug\net5.0\ref\Bai3_OperatorInCsharp.dll
+G:\Project\LearnCsharpWithXuanThu\Bai3_OperatorInCsharp\bin\Debug\net5.0\Bai3_OperatorInCsharp.pdb
+G:\Project\LearnCsharpWithXuanThu\Bai3_OperatorInCsharp\obj\Debug\net5.0\Bai3_OperatorInCsharp.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXuanThu\Bai3_OperatorInCsharp\obj\Debug\net5.0\Bai3_OperatorInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXuanThu\Bai3_OperatorInCsharp\obj\Debug\net5.0\Bai3_OperatorInCsharp.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bai3_OperatorInCsharp\obj\Debug\net5.0\Bai3_OperatorInCsharp.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXuanThu\Bai3_OperatorInCsharp\obj\Debug\net5.0\Bai3_OperatorInCsharp.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bai3_OperatorInCsharp\obj\Debug\net5.0\Bai3_OperatorInCsharp.dll
+G:\Project\LearnCsharpWithXuanThu\Bai3_OperatorInCsharp\obj\Debug\net5.0\ref\Bai3_OperatorInCsharp.dll
+G:\Project\LearnCsharpWithXuanThu\Bai3_OperatorInCsharp\obj\Debug\net5.0\Bai3_OperatorInCsharp.pdb
+G:\Project\LearnCsharpWithXuanThu\Bai3_OperatorInCsharp\obj\Debug\net5.0\Bai3_OperatorInCsharp.genruntimeconfig.cache
