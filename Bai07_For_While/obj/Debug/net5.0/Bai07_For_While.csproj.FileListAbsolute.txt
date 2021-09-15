@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXuanThu\Bai07_For_While\bin\Debug\net5.0\Bai07_For_While.exe
+G:\Project\LearnCsharpWithXuanThu\Bai07_For_While\bin\Debug\net5.0\Bai07_For_While.deps.json
+G:\Project\LearnCsharpWithXuanThu\Bai07_For_While\bin\Debug\net5.0\Bai07_For_While.runtimeconfig.json
+G:\Project\LearnCsharpWithXuanThu\Bai07_For_While\bin\Debug\net5.0\Bai07_For_While.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXuanThu\Bai07_For_While\bin\Debug\net5.0\Bai07_For_While.dll
+G:\Project\LearnCsharpWithXuanThu\Bai07_For_While\bin\Debug\net5.0\ref\Bai07_For_While.dll
+G:\Project\LearnCsharpWithXuanThu\Bai07_For_While\bin\Debug\net5.0\Bai07_For_While.pdb
+G:\Project\LearnCsharpWithXuanThu\Bai07_For_While\obj\Debug\net5.0\Bai07_For_While.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXuanThu\Bai07_For_While\obj\Debug\net5.0\Bai07_For_While.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXuanThu\Bai07_For_While\obj\Debug\net5.0\Bai07_For_While.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bai07_For_While\obj\Debug\net5.0\Bai07_For_While.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXuanThu\Bai07_For_While\obj\Debug\net5.0\Bai07_For_While.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bai07_For_While\obj\Debug\net5.0\Bai07_For_While.dll
+G:\Project\LearnCsharpWithXuanThu\Bai07_For_While\obj\Debug\net5.0\ref\Bai07_For_While.dll
+G:\Project\LearnCsharpWithXuanThu\Bai07_For_While\obj\Debug\net5.0\Bai07_For_While.pdb
+G:\Project\LearnCsharpWithXuanThu\Bai07_For_While\obj\Debug\net5.0\Bai07_For_While.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bai07_For_While/1.0.0": {
+        "runtime": {
+          "Bai07_For_While.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai07_For_While/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
