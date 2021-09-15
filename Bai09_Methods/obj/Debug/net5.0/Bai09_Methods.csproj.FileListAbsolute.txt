@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXuanThu\Bai09_Methods\bin\Debug\net5.0\Bai09_Methods.exe
+G:\Project\LearnCsharpWithXuanThu\Bai09_Methods\bin\Debug\net5.0\Bai09_Methods.deps.json
+G:\Project\LearnCsharpWithXuanThu\Bai09_Methods\bin\Debug\net5.0\Bai09_Methods.runtimeconfig.json
+G:\Project\LearnCsharpWithXuanThu\Bai09_Methods\bin\Debug\net5.0\Bai09_Methods.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXuanThu\Bai09_Methods\bin\Debug\net5.0\Bai09_Methods.dll
+G:\Project\LearnCsharpWithXuanThu\Bai09_Methods\bin\Debug\net5.0\ref\Bai09_Methods.dll
+G:\Project\LearnCsharpWithXuanThu\Bai09_Methods\bin\Debug\net5.0\Bai09_Methods.pdb
+G:\Project\LearnCsharpWithXuanThu\Bai09_Methods\obj\Debug\net5.0\Bai09_Methods.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXuanThu\Bai09_Methods\obj\Debug\net5.0\Bai09_Methods.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXuanThu\Bai09_Methods\obj\Debug\net5.0\Bai09_Methods.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bai09_Methods\obj\Debug\net5.0\Bai09_Methods.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXuanThu\Bai09_Methods\obj\Debug\net5.0\Bai09_Methods.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bai09_Methods\obj\Debug\net5.0\Bai09_Methods.dll
+G:\Project\LearnCsharpWithXuanThu\Bai09_Methods\obj\Debug\net5.0\ref\Bai09_Methods.dll
+G:\Project\LearnCsharpWithXuanThu\Bai09_Methods\obj\Debug\net5.0\Bai09_Methods.pdb
+G:\Project\LearnCsharpWithXuanThu\Bai09_Methods\obj\Debug\net5.0\Bai09_Methods.genruntimeconfig.cache
