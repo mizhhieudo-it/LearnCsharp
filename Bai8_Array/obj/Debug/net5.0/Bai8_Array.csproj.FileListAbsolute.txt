@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXuanThu\Bai8_Array\bin\Debug\net5.0\Bai8_Array.exe
+G:\Project\LearnCsharpWithXuanThu\Bai8_Array\bin\Debug\net5.0\Bai8_Array.deps.json
+G:\Project\LearnCsharpWithXuanThu\Bai8_Array\bin\Debug\net5.0\Bai8_Array.runtimeconfig.json
+G:\Project\LearnCsharpWithXuanThu\Bai8_Array\bin\Debug\net5.0\Bai8_Array.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXuanThu\Bai8_Array\bin\Debug\net5.0\Bai8_Array.dll
+G:\Project\LearnCsharpWithXuanThu\Bai8_Array\bin\Debug\net5.0\ref\Bai8_Array.dll
+G:\Project\LearnCsharpWithXuanThu\Bai8_Array\bin\Debug\net5.0\Bai8_Array.pdb
+G:\Project\LearnCsharpWithXuanThu\Bai8_Array\obj\Debug\net5.0\Bai8_Array.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXuanThu\Bai8_Array\obj\Debug\net5.0\Bai8_Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXuanThu\Bai8_Array\obj\Debug\net5.0\Bai8_Array.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bai8_Array\obj\Debug\net5.0\Bai8_Array.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXuanThu\Bai8_Array\obj\Debug\net5.0\Bai8_Array.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bai8_Array\obj\Debug\net5.0\Bai8_Array.dll
+G:\Project\LearnCsharpWithXuanThu\Bai8_Array\obj\Debug\net5.0\ref\Bai8_Array.dll
+G:\Project\LearnCsharpWithXuanThu\Bai8_Array\obj\Debug\net5.0\Bai8_Array.pdb
+G:\Project\LearnCsharpWithXuanThu\Bai8_Array\obj\Debug\net5.0\Bai8_Array.genruntimeconfig.cache

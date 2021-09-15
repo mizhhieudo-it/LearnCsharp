@@ -46,8 +46,13 @@ namespace Bài2_Biến_Hằng_số_Kiểu_Dữ_Liệu_và_nhập_Xuất_dữ_li�
             // input lúc nào đang ở dạng chuỗi cần đc convert về dạng số 
             var old = int.Parse(input);
             Console.WriteLine("Year ! Come here ");
+            // khai báo biến ngầm định => bắt buộc phải gán biên ngay sau khi khởi tạo 
+            var stringa = "Hello"; 
+            // Hằng số: hằng số sẽ ko bao giờ thay đổi thêm const ở đầu vd 
+            const double piii = 3.1412 ; 
+
              Console.ReadKey();
-            
+        
 
 
         }
