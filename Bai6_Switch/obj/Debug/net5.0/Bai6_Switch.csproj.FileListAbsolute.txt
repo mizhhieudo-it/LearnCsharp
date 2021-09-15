@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXuanThu\Bai6_Switch\bin\Debug\net5.0\Bai6_Switch.exe
+G:\Project\LearnCsharpWithXuanThu\Bai6_Switch\bin\Debug\net5.0\Bai6_Switch.deps.json
+G:\Project\LearnCsharpWithXuanThu\Bai6_Switch\bin\Debug\net5.0\Bai6_Switch.runtimeconfig.json
+G:\Project\LearnCsharpWithXuanThu\Bai6_Switch\bin\Debug\net5.0\Bai6_Switch.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXuanThu\Bai6_Switch\bin\Debug\net5.0\Bai6_Switch.dll
+G:\Project\LearnCsharpWithXuanThu\Bai6_Switch\bin\Debug\net5.0\ref\Bai6_Switch.dll
+G:\Project\LearnCsharpWithXuanThu\Bai6_Switch\bin\Debug\net5.0\Bai6_Switch.pdb
+G:\Project\LearnCsharpWithXuanThu\Bai6_Switch\obj\Debug\net5.0\Bai6_Switch.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXuanThu\Bai6_Switch\obj\Debug\net5.0\Bai6_Switch.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXuanThu\Bai6_Switch\obj\Debug\net5.0\Bai6_Switch.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bai6_Switch\obj\Debug\net5.0\Bai6_Switch.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXuanThu\Bai6_Switch\obj\Debug\net5.0\Bai6_Switch.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bai6_Switch\obj\Debug\net5.0\Bai6_Switch.dll
+G:\Project\LearnCsharpWithXuanThu\Bai6_Switch\obj\Debug\net5.0\ref\Bai6_Switch.dll
+G:\Project\LearnCsharpWithXuanThu\Bai6_Switch\obj\Debug\net5.0\Bai6_Switch.pdb
+G:\Project\LearnCsharpWithXuanThu\Bai6_Switch\obj\Debug\net5.0\Bai6_Switch.genruntimeconfig.cache
