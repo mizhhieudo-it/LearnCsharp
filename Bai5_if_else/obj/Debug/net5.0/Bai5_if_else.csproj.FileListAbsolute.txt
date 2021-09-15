@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXuanThu\Bai5_if_else\bin\Debug\net5.0\Bai5_if_else.exe
+G:\Project\LearnCsharpWithXuanThu\Bai5_if_else\bin\Debug\net5.0\Bai5_if_else.deps.json
+G:\Project\LearnCsharpWithXuanThu\Bai5_if_else\bin\Debug\net5.0\Bai5_if_else.runtimeconfig.json
+G:\Project\LearnCsharpWithXuanThu\Bai5_if_else\bin\Debug\net5.0\Bai5_if_else.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXuanThu\Bai5_if_else\bin\Debug\net5.0\Bai5_if_else.dll
+G:\Project\LearnCsharpWithXuanThu\Bai5_if_else\bin\Debug\net5.0\ref\Bai5_if_else.dll
+G:\Project\LearnCsharpWithXuanThu\Bai5_if_else\bin\Debug\net5.0\Bai5_if_else.pdb
+G:\Project\LearnCsharpWithXuanThu\Bai5_if_else\obj\Debug\net5.0\Bai5_if_else.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXuanThu\Bai5_if_else\obj\Debug\net5.0\Bai5_if_else.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXuanThu\Bai5_if_else\obj\Debug\net5.0\Bai5_if_else.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bai5_if_else\obj\Debug\net5.0\Bai5_if_else.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXuanThu\Bai5_if_else\obj\Debug\net5.0\Bai5_if_else.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bai5_if_else\obj\Debug\net5.0\Bai5_if_else.dll
+G:\Project\LearnCsharpWithXuanThu\Bai5_if_else\obj\Debug\net5.0\ref\Bai5_if_else.dll
+G:\Project\LearnCsharpWithXuanThu\Bai5_if_else\obj\Debug\net5.0\Bai5_if_else.pdb
+G:\Project\LearnCsharpWithXuanThu\Bai5_if_else\obj\Debug\net5.0\Bai5_if_else.genruntimeconfig.cache
