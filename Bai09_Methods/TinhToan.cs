@@ -4,7 +4,7 @@ namespace CS009 {
         public static int sum(int a,int b){
             return a+b;
         }
-        //overloading cùng tên , khác kiểu tham số truyền vào
+        //overloading: cùng tên , khác kiểu tham số truyền vào
         public static float sum(float a,float b){
             return a+b;
         }

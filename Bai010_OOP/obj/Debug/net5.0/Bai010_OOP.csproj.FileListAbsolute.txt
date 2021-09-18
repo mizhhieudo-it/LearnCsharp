@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXuanThu\Bai010_OOP\bin\Debug\net5.0\Bai010_OOP.exe
+G:\Project\LearnCsharpWithXuanThu\Bai010_OOP\bin\Debug\net5.0\Bai010_OOP.deps.json
+G:\Project\LearnCsharpWithXuanThu\Bai010_OOP\bin\Debug\net5.0\Bai010_OOP.runtimeconfig.json
+G:\Project\LearnCsharpWithXuanThu\Bai010_OOP\bin\Debug\net5.0\Bai010_OOP.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXuanThu\Bai010_OOP\bin\Debug\net5.0\Bai010_OOP.dll
+G:\Project\LearnCsharpWithXuanThu\Bai010_OOP\bin\Debug\net5.0\ref\Bai010_OOP.dll
+G:\Project\LearnCsharpWithXuanThu\Bai010_OOP\bin\Debug\net5.0\Bai010_OOP.pdb
+G:\Project\LearnCsharpWithXuanThu\Bai010_OOP\obj\Debug\net5.0\Bai010_OOP.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXuanThu\Bai010_OOP\obj\Debug\net5.0\Bai010_OOP.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXuanThu\Bai010_OOP\obj\Debug\net5.0\Bai010_OOP.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bai010_OOP\obj\Debug\net5.0\Bai010_OOP.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXuanThu\Bai010_OOP\obj\Debug\net5.0\Bai010_OOP.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXuanThu\Bai010_OOP\obj\Debug\net5.0\Bai010_OOP.dll
+G:\Project\LearnCsharpWithXuanThu\Bai010_OOP\obj\Debug\net5.0\ref\Bai010_OOP.dll
+G:\Project\LearnCsharpWithXuanThu\Bai010_OOP\obj\Debug\net5.0\Bai010_OOP.pdb
+G:\Project\LearnCsharpWithXuanThu\Bai010_OOP\obj\Debug\net5.0\Bai010_OOP.genruntimeconfig.cache
