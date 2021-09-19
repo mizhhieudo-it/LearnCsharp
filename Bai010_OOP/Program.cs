@@ -30,7 +30,6 @@ namespace Bai010_OOP
             //  
            // sử dụng hàm huy dispo 
            using (sinhvien s = new sinhvien("Tensv")){
-
            }
 
         }
