@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Bai11_String_StringBuilder\bin\Debug\net5.0\Bai11_String_StringBuilder.exe
+G:\Project\LearnCsharpWithXT\Bai11_String_StringBuilder\bin\Debug\net5.0\Bai11_String_StringBuilder.deps.json
+G:\Project\LearnCsharpWithXT\Bai11_String_StringBuilder\bin\Debug\net5.0\Bai11_String_StringBuilder.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Bai11_String_StringBuilder\bin\Debug\net5.0\Bai11_String_StringBuilder.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Bai11_String_StringBuilder\bin\Debug\net5.0\Bai11_String_StringBuilder.dll
+G:\Project\LearnCsharpWithXT\Bai11_String_StringBuilder\bin\Debug\net5.0\ref\Bai11_String_StringBuilder.dll
+G:\Project\LearnCsharpWithXT\Bai11_String_StringBuilder\bin\Debug\net5.0\Bai11_String_StringBuilder.pdb
+G:\Project\LearnCsharpWithXT\Bai11_String_StringBuilder\obj\Debug\net5.0\Bai11_String_StringBuilder.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Bai11_String_StringBuilder\obj\Debug\net5.0\Bai11_String_StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Bai11_String_StringBuilder\obj\Debug\net5.0\Bai11_String_StringBuilder.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Bai11_String_StringBuilder\obj\Debug\net5.0\Bai11_String_StringBuilder.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Bai11_String_StringBuilder\obj\Debug\net5.0\Bai11_String_StringBuilder.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Bai11_String_StringBuilder\obj\Debug\net5.0\Bai11_String_StringBuilder.dll
+G:\Project\LearnCsharpWithXT\Bai11_String_StringBuilder\obj\Debug\net5.0\ref\Bai11_String_StringBuilder.dll
+G:\Project\LearnCsharpWithXT\Bai11_String_StringBuilder\obj\Debug\net5.0\Bai11_String_StringBuilder.pdb
+G:\Project\LearnCsharpWithXT\Bai11_String_StringBuilder\obj\Debug\net5.0\Bai11_String_StringBuilder.genruntimeconfig.cache

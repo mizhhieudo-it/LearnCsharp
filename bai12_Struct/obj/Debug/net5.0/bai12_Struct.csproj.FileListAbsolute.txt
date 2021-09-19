@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\bai12_Struct\bin\Debug\net5.0\bai12_Struct.exe
+G:\Project\LearnCsharpWithXT\bai12_Struct\bin\Debug\net5.0\bai12_Struct.deps.json
+G:\Project\LearnCsharpWithXT\bai12_Struct\bin\Debug\net5.0\bai12_Struct.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\bai12_Struct\bin\Debug\net5.0\bai12_Struct.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\bai12_Struct\bin\Debug\net5.0\bai12_Struct.dll
+G:\Project\LearnCsharpWithXT\bai12_Struct\bin\Debug\net5.0\ref\bai12_Struct.dll
+G:\Project\LearnCsharpWithXT\bai12_Struct\bin\Debug\net5.0\bai12_Struct.pdb
+G:\Project\LearnCsharpWithXT\bai12_Struct\obj\Debug\net5.0\bai12_Struct.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\bai12_Struct\obj\Debug\net5.0\bai12_Struct.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\bai12_Struct\obj\Debug\net5.0\bai12_Struct.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\bai12_Struct\obj\Debug\net5.0\bai12_Struct.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\bai12_Struct\obj\Debug\net5.0\bai12_Struct.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\bai12_Struct\obj\Debug\net5.0\bai12_Struct.dll
+G:\Project\LearnCsharpWithXT\bai12_Struct\obj\Debug\net5.0\ref\bai12_Struct.dll
+G:\Project\LearnCsharpWithXT\bai12_Struct\obj\Debug\net5.0\bai12_Struct.pdb
+G:\Project\LearnCsharpWithXT\bai12_Struct\obj\Debug\net5.0\bai12_Struct.genruntimeconfig.cache
