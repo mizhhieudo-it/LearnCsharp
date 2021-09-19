@@ -1,1 +1,1 @@
-Đây là quá trình tôi học C sharp! 
+Đây là quá trình tôi học C sharp! :) 
