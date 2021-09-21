@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Bai14_KeThua\bin\Debug\net5.0\Bai14_KeThua.exe
+G:\Project\LearnCsharpWithXT\Bai14_KeThua\bin\Debug\net5.0\Bai14_KeThua.deps.json
+G:\Project\LearnCsharpWithXT\Bai14_KeThua\bin\Debug\net5.0\Bai14_KeThua.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Bai14_KeThua\bin\Debug\net5.0\Bai14_KeThua.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Bai14_KeThua\bin\Debug\net5.0\Bai14_KeThua.dll
+G:\Project\LearnCsharpWithXT\Bai14_KeThua\bin\Debug\net5.0\ref\Bai14_KeThua.dll
+G:\Project\LearnCsharpWithXT\Bai14_KeThua\bin\Debug\net5.0\Bai14_KeThua.pdb
+G:\Project\LearnCsharpWithXT\Bai14_KeThua\obj\Debug\net5.0\Bai14_KeThua.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Bai14_KeThua\obj\Debug\net5.0\Bai14_KeThua.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Bai14_KeThua\obj\Debug\net5.0\Bai14_KeThua.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Bai14_KeThua\obj\Debug\net5.0\Bai14_KeThua.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Bai14_KeThua\obj\Debug\net5.0\Bai14_KeThua.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Bai14_KeThua\obj\Debug\net5.0\Bai14_KeThua.dll
+G:\Project\LearnCsharpWithXT\Bai14_KeThua\obj\Debug\net5.0\ref\Bai14_KeThua.dll
+G:\Project\LearnCsharpWithXT\Bai14_KeThua\obj\Debug\net5.0\Bai14_KeThua.pdb
+G:\Project\LearnCsharpWithXT\Bai14_KeThua\obj\Debug\net5.0\Bai14_KeThua.genruntimeconfig.cache
