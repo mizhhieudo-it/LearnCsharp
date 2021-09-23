@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Bai16_Generic\bin\Debug\net5.0\Bai16_Generic.exe
+G:\Project\LearnCsharpWithXT\Bai16_Generic\bin\Debug\net5.0\Bai16_Generic.deps.json
+G:\Project\LearnCsharpWithXT\Bai16_Generic\bin\Debug\net5.0\Bai16_Generic.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Bai16_Generic\bin\Debug\net5.0\Bai16_Generic.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Bai16_Generic\bin\Debug\net5.0\Bai16_Generic.dll
+G:\Project\LearnCsharpWithXT\Bai16_Generic\bin\Debug\net5.0\ref\Bai16_Generic.dll
+G:\Project\LearnCsharpWithXT\Bai16_Generic\bin\Debug\net5.0\Bai16_Generic.pdb
+G:\Project\LearnCsharpWithXT\Bai16_Generic\obj\Debug\net5.0\Bai16_Generic.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Bai16_Generic\obj\Debug\net5.0\Bai16_Generic.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Bai16_Generic\obj\Debug\net5.0\Bai16_Generic.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Bai16_Generic\obj\Debug\net5.0\Bai16_Generic.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Bai16_Generic\obj\Debug\net5.0\Bai16_Generic.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Bai16_Generic\obj\Debug\net5.0\Bai16_Generic.dll
+G:\Project\LearnCsharpWithXT\Bai16_Generic\obj\Debug\net5.0\ref\Bai16_Generic.dll
+G:\Project\LearnCsharpWithXT\Bai16_Generic\obj\Debug\net5.0\Bai16_Generic.pdb
+G:\Project\LearnCsharpWithXT\Bai16_Generic\obj\Debug\net5.0\Bai16_Generic.genruntimeconfig.cache
