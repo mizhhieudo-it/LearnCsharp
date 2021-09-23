@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Bai15_Namespace_and_parital\bin\Debug\net5.0\Bai15_Namespace_and_parital.exe
+G:\Project\LearnCsharpWithXT\Bai15_Namespace_and_parital\bin\Debug\net5.0\Bai15_Namespace_and_parital.deps.json
+G:\Project\LearnCsharpWithXT\Bai15_Namespace_and_parital\bin\Debug\net5.0\Bai15_Namespace_and_parital.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Bai15_Namespace_and_parital\bin\Debug\net5.0\Bai15_Namespace_and_parital.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Bai15_Namespace_and_parital\bin\Debug\net5.0\Bai15_Namespace_and_parital.dll
+G:\Project\LearnCsharpWithXT\Bai15_Namespace_and_parital\bin\Debug\net5.0\ref\Bai15_Namespace_and_parital.dll
+G:\Project\LearnCsharpWithXT\Bai15_Namespace_and_parital\bin\Debug\net5.0\Bai15_Namespace_and_parital.pdb
+G:\Project\LearnCsharpWithXT\Bai15_Namespace_and_parital\obj\Debug\net5.0\Bai15_Namespace_and_parital.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Bai15_Namespace_and_parital\obj\Debug\net5.0\Bai15_Namespace_and_parital.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Bai15_Namespace_and_parital\obj\Debug\net5.0\Bai15_Namespace_and_parital.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Bai15_Namespace_and_parital\obj\Debug\net5.0\Bai15_Namespace_and_parital.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Bai15_Namespace_and_parital\obj\Debug\net5.0\Bai15_Namespace_and_parital.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Bai15_Namespace_and_parital\obj\Debug\net5.0\Bai15_Namespace_and_parital.dll
+G:\Project\LearnCsharpWithXT\Bai15_Namespace_and_parital\obj\Debug\net5.0\ref\Bai15_Namespace_and_parital.dll
+G:\Project\LearnCsharpWithXT\Bai15_Namespace_and_parital\obj\Debug\net5.0\Bai15_Namespace_and_parital.pdb
+G:\Project\LearnCsharpWithXT\Bai15_Namespace_and_parital\obj\Debug\net5.0\Bai15_Namespace_and_parital.genruntimeconfig.cache

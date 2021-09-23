@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bai15_Namespace_and_parital/1.0.0": {
+        "runtime": {
+          "Bai15_Namespace_and_parital.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai15_Namespace_and_parital/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
