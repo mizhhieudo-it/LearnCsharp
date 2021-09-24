@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\B18_null_nullable\bin\Debug\net5.0\B18_null_nullable.exe
+G:\Project\LearnCsharpWithXT\B18_null_nullable\bin\Debug\net5.0\B18_null_nullable.deps.json
+G:\Project\LearnCsharpWithXT\B18_null_nullable\bin\Debug\net5.0\B18_null_nullable.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\B18_null_nullable\bin\Debug\net5.0\B18_null_nullable.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\B18_null_nullable\bin\Debug\net5.0\B18_null_nullable.dll
+G:\Project\LearnCsharpWithXT\B18_null_nullable\bin\Debug\net5.0\ref\B18_null_nullable.dll
+G:\Project\LearnCsharpWithXT\B18_null_nullable\bin\Debug\net5.0\B18_null_nullable.pdb
+G:\Project\LearnCsharpWithXT\B18_null_nullable\obj\Debug\net5.0\B18_null_nullable.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\B18_null_nullable\obj\Debug\net5.0\B18_null_nullable.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\B18_null_nullable\obj\Debug\net5.0\B18_null_nullable.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\B18_null_nullable\obj\Debug\net5.0\B18_null_nullable.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\B18_null_nullable\obj\Debug\net5.0\B18_null_nullable.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\B18_null_nullable\obj\Debug\net5.0\B18_null_nullable.dll
+G:\Project\LearnCsharpWithXT\B18_null_nullable\obj\Debug\net5.0\ref\B18_null_nullable.dll
+G:\Project\LearnCsharpWithXT\B18_null_nullable\obj\Debug\net5.0\B18_null_nullable.pdb
+G:\Project\LearnCsharpWithXT\B18_null_nullable\obj\Debug\net5.0\B18_null_nullable.genruntimeconfig.cache

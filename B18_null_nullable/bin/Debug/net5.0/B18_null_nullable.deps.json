@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "B18_null_nullable/1.0.0": {
+        "runtime": {
+          "B18_null_nullable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B18_null_nullable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
