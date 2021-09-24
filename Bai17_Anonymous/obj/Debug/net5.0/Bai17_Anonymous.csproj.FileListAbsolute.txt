@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Bai17_Anonymous\bin\Debug\net5.0\Bai17_Anonymous.exe
+G:\Project\LearnCsharpWithXT\Bai17_Anonymous\bin\Debug\net5.0\Bai17_Anonymous.deps.json
+G:\Project\LearnCsharpWithXT\Bai17_Anonymous\bin\Debug\net5.0\Bai17_Anonymous.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Bai17_Anonymous\bin\Debug\net5.0\Bai17_Anonymous.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Bai17_Anonymous\bin\Debug\net5.0\Bai17_Anonymous.dll
+G:\Project\LearnCsharpWithXT\Bai17_Anonymous\bin\Debug\net5.0\ref\Bai17_Anonymous.dll
+G:\Project\LearnCsharpWithXT\Bai17_Anonymous\bin\Debug\net5.0\Bai17_Anonymous.pdb
+G:\Project\LearnCsharpWithXT\Bai17_Anonymous\obj\Debug\net5.0\Bai17_Anonymous.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Bai17_Anonymous\obj\Debug\net5.0\Bai17_Anonymous.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Bai17_Anonymous\obj\Debug\net5.0\Bai17_Anonymous.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Bai17_Anonymous\obj\Debug\net5.0\Bai17_Anonymous.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Bai17_Anonymous\obj\Debug\net5.0\Bai17_Anonymous.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Bai17_Anonymous\obj\Debug\net5.0\Bai17_Anonymous.dll
+G:\Project\LearnCsharpWithXT\Bai17_Anonymous\obj\Debug\net5.0\ref\Bai17_Anonymous.dll
+G:\Project\LearnCsharpWithXT\Bai17_Anonymous\obj\Debug\net5.0\Bai17_Anonymous.pdb
+G:\Project\LearnCsharpWithXT\Bai17_Anonymous\obj\Debug\net5.0\Bai17_Anonymous.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bai17_Anonymous/1.0.0": {
+        "runtime": {
+          "Bai17_Anonymous.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai17_Anonymous/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
