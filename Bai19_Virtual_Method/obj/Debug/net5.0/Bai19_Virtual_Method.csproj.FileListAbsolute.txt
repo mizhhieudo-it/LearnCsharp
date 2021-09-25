@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Bai19_Virtual_Method\bin\Debug\net5.0\Bai19_Virtual_Method.exe
+G:\Project\LearnCsharpWithXT\Bai19_Virtual_Method\bin\Debug\net5.0\Bai19_Virtual_Method.deps.json
+G:\Project\LearnCsharpWithXT\Bai19_Virtual_Method\bin\Debug\net5.0\Bai19_Virtual_Method.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Bai19_Virtual_Method\bin\Debug\net5.0\Bai19_Virtual_Method.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Bai19_Virtual_Method\bin\Debug\net5.0\Bai19_Virtual_Method.dll
+G:\Project\LearnCsharpWithXT\Bai19_Virtual_Method\bin\Debug\net5.0\ref\Bai19_Virtual_Method.dll
+G:\Project\LearnCsharpWithXT\Bai19_Virtual_Method\bin\Debug\net5.0\Bai19_Virtual_Method.pdb
+G:\Project\LearnCsharpWithXT\Bai19_Virtual_Method\obj\Debug\net5.0\Bai19_Virtual_Method.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Bai19_Virtual_Method\obj\Debug\net5.0\Bai19_Virtual_Method.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Bai19_Virtual_Method\obj\Debug\net5.0\Bai19_Virtual_Method.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Bai19_Virtual_Method\obj\Debug\net5.0\Bai19_Virtual_Method.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Bai19_Virtual_Method\obj\Debug\net5.0\Bai19_Virtual_Method.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Bai19_Virtual_Method\obj\Debug\net5.0\Bai19_Virtual_Method.dll
+G:\Project\LearnCsharpWithXT\Bai19_Virtual_Method\obj\Debug\net5.0\ref\Bai19_Virtual_Method.dll
+G:\Project\LearnCsharpWithXT\Bai19_Virtual_Method\obj\Debug\net5.0\Bai19_Virtual_Method.pdb
+G:\Project\LearnCsharpWithXT\Bai19_Virtual_Method\obj\Debug\net5.0\Bai19_Virtual_Method.genruntimeconfig.cache
