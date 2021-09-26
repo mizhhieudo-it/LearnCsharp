@@ -20,6 +20,13 @@ namespace Bai17_Anonymous
         }
         static void Main(string[] args)
         {
+            // vidu ve kieu anonymous 
+            var sp = new {
+                Ten = "Iphone 8",
+                Gia = 1000 ,
+                NamSX = 2018,
+            };// NHẬN XÉT : biến anonymouse là kiểu chỉ đọc , 
+
             List<sv> a = new List<sv>(){
                 new sv(){name="nam",namsinh=2000}, 
                 new sv(){name="dan",namsinh=2002}, 
