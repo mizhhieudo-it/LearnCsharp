@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Bai21_Lamda\bin\Debug\net5.0\Bai21_Lamda.exe
+G:\Project\LearnCsharpWithXT\Bai21_Lamda\bin\Debug\net5.0\Bai21_Lamda.deps.json
+G:\Project\LearnCsharpWithXT\Bai21_Lamda\bin\Debug\net5.0\Bai21_Lamda.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Bai21_Lamda\bin\Debug\net5.0\Bai21_Lamda.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Bai21_Lamda\bin\Debug\net5.0\Bai21_Lamda.dll
+G:\Project\LearnCsharpWithXT\Bai21_Lamda\bin\Debug\net5.0\ref\Bai21_Lamda.dll
+G:\Project\LearnCsharpWithXT\Bai21_Lamda\bin\Debug\net5.0\Bai21_Lamda.pdb
+G:\Project\LearnCsharpWithXT\Bai21_Lamda\obj\Debug\net5.0\Bai21_Lamda.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Bai21_Lamda\obj\Debug\net5.0\Bai21_Lamda.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Bai21_Lamda\obj\Debug\net5.0\Bai21_Lamda.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Bai21_Lamda\obj\Debug\net5.0\Bai21_Lamda.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Bai21_Lamda\obj\Debug\net5.0\Bai21_Lamda.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Bai21_Lamda\obj\Debug\net5.0\Bai21_Lamda.dll
+G:\Project\LearnCsharpWithXT\Bai21_Lamda\obj\Debug\net5.0\ref\Bai21_Lamda.dll
+G:\Project\LearnCsharpWithXT\Bai21_Lamda\obj\Debug\net5.0\Bai21_Lamda.pdb
+G:\Project\LearnCsharpWithXT\Bai21_Lamda\obj\Debug\net5.0\Bai21_Lamda.genruntimeconfig.cache
