@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bai022_Event_Delegate_EvantHandler/1.0.0": {
+        "runtime": {
+          "Bai022_Event_Delegate_EvantHandler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai022_Event_Delegate_EvantHandler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

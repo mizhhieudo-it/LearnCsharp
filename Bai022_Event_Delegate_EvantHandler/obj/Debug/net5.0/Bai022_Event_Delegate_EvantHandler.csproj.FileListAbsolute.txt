@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Bai022_Event_Delegate_EvantHandler\bin\Debug\net5.0\Bai022_Event_Delegate_EvantHandler.exe
+G:\Project\LearnCsharpWithXT\Bai022_Event_Delegate_EvantHandler\bin\Debug\net5.0\Bai022_Event_Delegate_EvantHandler.deps.json
+G:\Project\LearnCsharpWithXT\Bai022_Event_Delegate_EvantHandler\bin\Debug\net5.0\Bai022_Event_Delegate_EvantHandler.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Bai022_Event_Delegate_EvantHandler\bin\Debug\net5.0\Bai022_Event_Delegate_EvantHandler.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Bai022_Event_Delegate_EvantHandler\bin\Debug\net5.0\Bai022_Event_Delegate_EvantHandler.dll
+G:\Project\LearnCsharpWithXT\Bai022_Event_Delegate_EvantHandler\bin\Debug\net5.0\ref\Bai022_Event_Delegate_EvantHandler.dll
+G:\Project\LearnCsharpWithXT\Bai022_Event_Delegate_EvantHandler\bin\Debug\net5.0\Bai022_Event_Delegate_EvantHandler.pdb
+G:\Project\LearnCsharpWithXT\Bai022_Event_Delegate_EvantHandler\obj\Debug\net5.0\Bai022_Event_Delegate_EvantHandler.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Bai022_Event_Delegate_EvantHandler\obj\Debug\net5.0\Bai022_Event_Delegate_EvantHandler.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Bai022_Event_Delegate_EvantHandler\obj\Debug\net5.0\Bai022_Event_Delegate_EvantHandler.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Bai022_Event_Delegate_EvantHandler\obj\Debug\net5.0\Bai022_Event_Delegate_EvantHandler.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Bai022_Event_Delegate_EvantHandler\obj\Debug\net5.0\Bai022_Event_Delegate_EvantHandler.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Bai022_Event_Delegate_EvantHandler\obj\Debug\net5.0\Bai022_Event_Delegate_EvantHandler.dll
+G:\Project\LearnCsharpWithXT\Bai022_Event_Delegate_EvantHandler\obj\Debug\net5.0\ref\Bai022_Event_Delegate_EvantHandler.dll
+G:\Project\LearnCsharpWithXT\Bai022_Event_Delegate_EvantHandler\obj\Debug\net5.0\Bai022_Event_Delegate_EvantHandler.pdb
+G:\Project\LearnCsharpWithXT\Bai022_Event_Delegate_EvantHandler\obj\Debug\net5.0\Bai022_Event_Delegate_EvantHandler.genruntimeconfig.cache
