@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Bai023_Extendsion_Method\bin\Debug\net5.0\Bai023_Extendsion_Method.exe
+G:\Project\LearnCsharpWithXT\Bai023_Extendsion_Method\bin\Debug\net5.0\Bai023_Extendsion_Method.deps.json
+G:\Project\LearnCsharpWithXT\Bai023_Extendsion_Method\bin\Debug\net5.0\Bai023_Extendsion_Method.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Bai023_Extendsion_Method\bin\Debug\net5.0\Bai023_Extendsion_Method.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Bai023_Extendsion_Method\bin\Debug\net5.0\Bai023_Extendsion_Method.dll
+G:\Project\LearnCsharpWithXT\Bai023_Extendsion_Method\bin\Debug\net5.0\ref\Bai023_Extendsion_Method.dll
+G:\Project\LearnCsharpWithXT\Bai023_Extendsion_Method\bin\Debug\net5.0\Bai023_Extendsion_Method.pdb
+G:\Project\LearnCsharpWithXT\Bai023_Extendsion_Method\obj\Debug\net5.0\Bai023_Extendsion_Method.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Bai023_Extendsion_Method\obj\Debug\net5.0\Bai023_Extendsion_Method.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Bai023_Extendsion_Method\obj\Debug\net5.0\Bai023_Extendsion_Method.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Bai023_Extendsion_Method\obj\Debug\net5.0\Bai023_Extendsion_Method.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Bai023_Extendsion_Method\obj\Debug\net5.0\Bai023_Extendsion_Method.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Bai023_Extendsion_Method\obj\Debug\net5.0\Bai023_Extendsion_Method.dll
+G:\Project\LearnCsharpWithXT\Bai023_Extendsion_Method\obj\Debug\net5.0\ref\Bai023_Extendsion_Method.dll
+G:\Project\LearnCsharpWithXT\Bai023_Extendsion_Method\obj\Debug\net5.0\Bai023_Extendsion_Method.pdb
+G:\Project\LearnCsharpWithXT\Bai023_Extendsion_Method\obj\Debug\net5.0\Bai023_Extendsion_Method.genruntimeconfig.cache
