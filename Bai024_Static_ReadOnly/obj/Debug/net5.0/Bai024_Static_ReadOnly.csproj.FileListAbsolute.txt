@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Bai024_Static_ReadOnly\bin\Debug\net5.0\Bai024_Static_ReadOnly.exe
+G:\Project\LearnCsharpWithXT\Bai024_Static_ReadOnly\bin\Debug\net5.0\Bai024_Static_ReadOnly.deps.json
+G:\Project\LearnCsharpWithXT\Bai024_Static_ReadOnly\bin\Debug\net5.0\Bai024_Static_ReadOnly.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Bai024_Static_ReadOnly\bin\Debug\net5.0\Bai024_Static_ReadOnly.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Bai024_Static_ReadOnly\bin\Debug\net5.0\Bai024_Static_ReadOnly.dll
+G:\Project\LearnCsharpWithXT\Bai024_Static_ReadOnly\bin\Debug\net5.0\ref\Bai024_Static_ReadOnly.dll
+G:\Project\LearnCsharpWithXT\Bai024_Static_ReadOnly\bin\Debug\net5.0\Bai024_Static_ReadOnly.pdb
+G:\Project\LearnCsharpWithXT\Bai024_Static_ReadOnly\obj\Debug\net5.0\Bai024_Static_ReadOnly.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Bai024_Static_ReadOnly\obj\Debug\net5.0\Bai024_Static_ReadOnly.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Bai024_Static_ReadOnly\obj\Debug\net5.0\Bai024_Static_ReadOnly.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Bai024_Static_ReadOnly\obj\Debug\net5.0\Bai024_Static_ReadOnly.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Bai024_Static_ReadOnly\obj\Debug\net5.0\Bai024_Static_ReadOnly.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Bai024_Static_ReadOnly\obj\Debug\net5.0\Bai024_Static_ReadOnly.dll
+G:\Project\LearnCsharpWithXT\Bai024_Static_ReadOnly\obj\Debug\net5.0\ref\Bai024_Static_ReadOnly.dll
+G:\Project\LearnCsharpWithXT\Bai024_Static_ReadOnly\obj\Debug\net5.0\Bai024_Static_ReadOnly.pdb
+G:\Project\LearnCsharpWithXT\Bai024_Static_ReadOnly\obj\Debug\net5.0\Bai024_Static_ReadOnly.genruntimeconfig.cache
