@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Exception\bin\Debug\net5.0\Exception.exe
+G:\Project\LearnCsharpWithXT\Exception\bin\Debug\net5.0\Exception.deps.json
+G:\Project\LearnCsharpWithXT\Exception\bin\Debug\net5.0\Exception.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Exception\bin\Debug\net5.0\Exception.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Exception\bin\Debug\net5.0\Exception.dll
+G:\Project\LearnCsharpWithXT\Exception\bin\Debug\net5.0\ref\Exception.dll
+G:\Project\LearnCsharpWithXT\Exception\bin\Debug\net5.0\Exception.pdb
+G:\Project\LearnCsharpWithXT\Exception\obj\Debug\net5.0\Exception.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Exception\obj\Debug\net5.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Exception\obj\Debug\net5.0\Exception.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Exception\obj\Debug\net5.0\Exception.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Exception\obj\Debug\net5.0\Exception.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Exception\obj\Debug\net5.0\Exception.dll
+G:\Project\LearnCsharpWithXT\Exception\obj\Debug\net5.0\ref\Exception.dll
+G:\Project\LearnCsharpWithXT\Exception\obj\Debug\net5.0\Exception.pdb
+G:\Project\LearnCsharpWithXT\Exception\obj\Debug\net5.0\Exception.genruntimeconfig.cache
