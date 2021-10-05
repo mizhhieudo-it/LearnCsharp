@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Bai026_List_SortedList\bin\Debug\net5.0\Bai026_List_SortedList.exe
+G:\Project\LearnCsharpWithXT\Bai026_List_SortedList\bin\Debug\net5.0\Bai026_List_SortedList.deps.json
+G:\Project\LearnCsharpWithXT\Bai026_List_SortedList\bin\Debug\net5.0\Bai026_List_SortedList.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Bai026_List_SortedList\bin\Debug\net5.0\Bai026_List_SortedList.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Bai026_List_SortedList\bin\Debug\net5.0\Bai026_List_SortedList.dll
+G:\Project\LearnCsharpWithXT\Bai026_List_SortedList\bin\Debug\net5.0\ref\Bai026_List_SortedList.dll
+G:\Project\LearnCsharpWithXT\Bai026_List_SortedList\bin\Debug\net5.0\Bai026_List_SortedList.pdb
+G:\Project\LearnCsharpWithXT\Bai026_List_SortedList\obj\Debug\net5.0\Bai026_List_SortedList.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Bai026_List_SortedList\obj\Debug\net5.0\Bai026_List_SortedList.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Bai026_List_SortedList\obj\Debug\net5.0\Bai026_List_SortedList.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Bai026_List_SortedList\obj\Debug\net5.0\Bai026_List_SortedList.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Bai026_List_SortedList\obj\Debug\net5.0\Bai026_List_SortedList.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Bai026_List_SortedList\obj\Debug\net5.0\Bai026_List_SortedList.dll
+G:\Project\LearnCsharpWithXT\Bai026_List_SortedList\obj\Debug\net5.0\ref\Bai026_List_SortedList.dll
+G:\Project\LearnCsharpWithXT\Bai026_List_SortedList\obj\Debug\net5.0\Bai026_List_SortedList.pdb
+G:\Project\LearnCsharpWithXT\Bai026_List_SortedList\obj\Debug\net5.0\Bai026_List_SortedList.genruntimeconfig.cache
