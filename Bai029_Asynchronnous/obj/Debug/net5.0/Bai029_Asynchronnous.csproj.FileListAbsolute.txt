@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\bin\Debug\net5.0\Bai029_Asynchronnous.exe
+G:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\bin\Debug\net5.0\Bai029_Asynchronnous.deps.json
+G:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\bin\Debug\net5.0\Bai029_Asynchronnous.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\bin\Debug\net5.0\Bai029_Asynchronnous.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\bin\Debug\net5.0\Bai029_Asynchronnous.dll
+G:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\bin\Debug\net5.0\ref\Bai029_Asynchronnous.dll
+G:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\bin\Debug\net5.0\Bai029_Asynchronnous.pdb
+G:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\obj\Debug\net5.0\Bai029_Asynchronnous.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\obj\Debug\net5.0\Bai029_Asynchronnous.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\obj\Debug\net5.0\Bai029_Asynchronnous.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\obj\Debug\net5.0\Bai029_Asynchronnous.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\obj\Debug\net5.0\Bai029_Asynchronnous.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\obj\Debug\net5.0\Bai029_Asynchronnous.dll
+G:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\obj\Debug\net5.0\ref\Bai029_Asynchronnous.dll
+G:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\obj\Debug\net5.0\Bai029_Asynchronnous.pdb
+G:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\obj\Debug\net5.0\Bai029_Asynchronnous.genruntimeconfig.cache

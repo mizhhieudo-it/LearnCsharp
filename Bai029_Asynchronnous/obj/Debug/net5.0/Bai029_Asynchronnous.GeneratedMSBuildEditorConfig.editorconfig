@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Bai028_FileStream
-build_property.ProjectDir = g:\Project\LearnCsharpWithXT\Theory\Bai028_FileStream\
+build_property.RootNamespace = Bai029_Asynchronnous
+build_property.ProjectDir = g:\Project\LearnCsharpWithXT\Theory\Bai029_Asynchronnous\
