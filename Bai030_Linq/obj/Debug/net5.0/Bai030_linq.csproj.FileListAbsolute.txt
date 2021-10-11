@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Theory\Bai030_linq\bin\Debug\net5.0\Bai030_linq.exe
+G:\Project\LearnCsharpWithXT\Theory\Bai030_linq\bin\Debug\net5.0\Bai030_linq.deps.json
+G:\Project\LearnCsharpWithXT\Theory\Bai030_linq\bin\Debug\net5.0\Bai030_linq.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Theory\Bai030_linq\bin\Debug\net5.0\Bai030_linq.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Theory\Bai030_linq\bin\Debug\net5.0\Bai030_linq.dll
+G:\Project\LearnCsharpWithXT\Theory\Bai030_linq\bin\Debug\net5.0\ref\Bai030_linq.dll
+G:\Project\LearnCsharpWithXT\Theory\Bai030_linq\bin\Debug\net5.0\Bai030_linq.pdb
+G:\Project\LearnCsharpWithXT\Theory\Bai030_linq\obj\Debug\net5.0\Bai030_linq.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Theory\Bai030_linq\obj\Debug\net5.0\Bai030_linq.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Theory\Bai030_linq\obj\Debug\net5.0\Bai030_linq.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Theory\Bai030_linq\obj\Debug\net5.0\Bai030_linq.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Theory\Bai030_linq\obj\Debug\net5.0\Bai030_linq.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Theory\Bai030_linq\obj\Debug\net5.0\Bai030_linq.dll
+G:\Project\LearnCsharpWithXT\Theory\Bai030_linq\obj\Debug\net5.0\ref\Bai030_linq.dll
+G:\Project\LearnCsharpWithXT\Theory\Bai030_linq\obj\Debug\net5.0\Bai030_linq.pdb
+G:\Project\LearnCsharpWithXT\Theory\Bai030_linq\obj\Debug\net5.0\Bai030_linq.genruntimeconfig.cache
