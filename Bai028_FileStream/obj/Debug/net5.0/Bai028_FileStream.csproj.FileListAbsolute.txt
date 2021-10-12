@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Practice\Bai028_FileStream\bin\Debug\net5.0\Bai028_FileStream.exe
+G:\Project\LearnCsharpWithXT\Practice\Bai028_FileStream\bin\Debug\net5.0\Bai028_FileStream.deps.json
+G:\Project\LearnCsharpWithXT\Practice\Bai028_FileStream\bin\Debug\net5.0\Bai028_FileStream.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Practice\Bai028_FileStream\bin\Debug\net5.0\Bai028_FileStream.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Practice\Bai028_FileStream\bin\Debug\net5.0\Bai028_FileStream.dll
+G:\Project\LearnCsharpWithXT\Practice\Bai028_FileStream\bin\Debug\net5.0\ref\Bai028_FileStream.dll
+G:\Project\LearnCsharpWithXT\Practice\Bai028_FileStream\bin\Debug\net5.0\Bai028_FileStream.pdb
+G:\Project\LearnCsharpWithXT\Practice\Bai028_FileStream\obj\Debug\net5.0\Bai028_FileStream.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Practice\Bai028_FileStream\obj\Debug\net5.0\Bai028_FileStream.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Practice\Bai028_FileStream\obj\Debug\net5.0\Bai028_FileStream.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Practice\Bai028_FileStream\obj\Debug\net5.0\Bai028_FileStream.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Practice\Bai028_FileStream\obj\Debug\net5.0\Bai028_FileStream.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Practice\Bai028_FileStream\obj\Debug\net5.0\Bai028_FileStream.dll
+G:\Project\LearnCsharpWithXT\Practice\Bai028_FileStream\obj\Debug\net5.0\ref\Bai028_FileStream.dll
+G:\Project\LearnCsharpWithXT\Practice\Bai028_FileStream\obj\Debug\net5.0\Bai028_FileStream.pdb
+G:\Project\LearnCsharpWithXT\Practice\Bai028_FileStream\obj\Debug\net5.0\Bai028_FileStream.genruntimeconfig.cache

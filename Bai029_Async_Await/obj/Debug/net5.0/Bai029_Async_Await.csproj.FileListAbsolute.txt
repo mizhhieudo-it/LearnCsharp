@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Practice\Bai029_Async_Await\bin\Debug\net5.0\Bai029_Async_Await.exe
+G:\Project\LearnCsharpWithXT\Practice\Bai029_Async_Await\bin\Debug\net5.0\Bai029_Async_Await.deps.json
+G:\Project\LearnCsharpWithXT\Practice\Bai029_Async_Await\bin\Debug\net5.0\Bai029_Async_Await.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Practice\Bai029_Async_Await\bin\Debug\net5.0\Bai029_Async_Await.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Practice\Bai029_Async_Await\bin\Debug\net5.0\Bai029_Async_Await.dll
+G:\Project\LearnCsharpWithXT\Practice\Bai029_Async_Await\bin\Debug\net5.0\ref\Bai029_Async_Await.dll
+G:\Project\LearnCsharpWithXT\Practice\Bai029_Async_Await\bin\Debug\net5.0\Bai029_Async_Await.pdb
+G:\Project\LearnCsharpWithXT\Practice\Bai029_Async_Await\obj\Debug\net5.0\Bai029_Async_Await.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Practice\Bai029_Async_Await\obj\Debug\net5.0\Bai029_Async_Await.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Practice\Bai029_Async_Await\obj\Debug\net5.0\Bai029_Async_Await.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Practice\Bai029_Async_Await\obj\Debug\net5.0\Bai029_Async_Await.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Practice\Bai029_Async_Await\obj\Debug\net5.0\Bai029_Async_Await.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Practice\Bai029_Async_Await\obj\Debug\net5.0\Bai029_Async_Await.dll
+G:\Project\LearnCsharpWithXT\Practice\Bai029_Async_Await\obj\Debug\net5.0\ref\Bai029_Async_Await.dll
+G:\Project\LearnCsharpWithXT\Practice\Bai029_Async_Await\obj\Debug\net5.0\Bai029_Async_Await.pdb
+G:\Project\LearnCsharpWithXT\Practice\Bai029_Async_Await\obj\Debug\net5.0\Bai029_Async_Await.genruntimeconfig.cache
