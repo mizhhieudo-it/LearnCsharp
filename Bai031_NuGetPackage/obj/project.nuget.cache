@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wxNGkaERJIbYsgtRMAlPXot92XcA+gSsiPOXtlI585gajGUBy6aVs4DEP2+bmcrsPVnKahQdkMH704IXY0xLsA==",
+  "success": true,
+  "projectFilePath": "G:\\Project\\LearnCsharpWithXT\\Theory\\Bai031_NuGetPackage\\Bai031_NuGetPackage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Do Minh Hieu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

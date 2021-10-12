@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>HITLAB.Utils</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Do Minh Hieu</Authors>
+  </PropertyGroup>
+
+</Project>
