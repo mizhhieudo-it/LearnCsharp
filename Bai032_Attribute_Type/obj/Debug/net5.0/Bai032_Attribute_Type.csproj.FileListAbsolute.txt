@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Theory\Bai032_Attribute_Type\bin\Debug\net5.0\Bai032_Attribute_Type.exe
+G:\Project\LearnCsharpWithXT\Theory\Bai032_Attribute_Type\bin\Debug\net5.0\Bai032_Attribute_Type.deps.json
+G:\Project\LearnCsharpWithXT\Theory\Bai032_Attribute_Type\bin\Debug\net5.0\Bai032_Attribute_Type.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Theory\Bai032_Attribute_Type\bin\Debug\net5.0\Bai032_Attribute_Type.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Theory\Bai032_Attribute_Type\bin\Debug\net5.0\Bai032_Attribute_Type.dll
+G:\Project\LearnCsharpWithXT\Theory\Bai032_Attribute_Type\bin\Debug\net5.0\ref\Bai032_Attribute_Type.dll
+G:\Project\LearnCsharpWithXT\Theory\Bai032_Attribute_Type\bin\Debug\net5.0\Bai032_Attribute_Type.pdb
+G:\Project\LearnCsharpWithXT\Theory\Bai032_Attribute_Type\obj\Debug\net5.0\Bai032_Attribute_Type.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Theory\Bai032_Attribute_Type\obj\Debug\net5.0\Bai032_Attribute_Type.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Theory\Bai032_Attribute_Type\obj\Debug\net5.0\Bai032_Attribute_Type.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Theory\Bai032_Attribute_Type\obj\Debug\net5.0\Bai032_Attribute_Type.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Theory\Bai032_Attribute_Type\obj\Debug\net5.0\Bai032_Attribute_Type.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Theory\Bai032_Attribute_Type\obj\Debug\net5.0\Bai032_Attribute_Type.dll
+G:\Project\LearnCsharpWithXT\Theory\Bai032_Attribute_Type\obj\Debug\net5.0\ref\Bai032_Attribute_Type.dll
+G:\Project\LearnCsharpWithXT\Theory\Bai032_Attribute_Type\obj\Debug\net5.0\Bai032_Attribute_Type.pdb
+G:\Project\LearnCsharpWithXT\Theory\Bai032_Attribute_Type\obj\Debug\net5.0\Bai032_Attribute_Type.genruntimeconfig.cache
