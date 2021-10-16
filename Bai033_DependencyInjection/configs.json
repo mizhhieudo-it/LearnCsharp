@@ -1,0 +1,10 @@
+{
+    "section1":{
+        "key1": "value1",
+        "key2": 123123
+    },
+    "MyServiceOptions" : {
+        "data1":"Hoc DI",
+        "data2":12345
+    }
+}
