@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bai034_NETWORKING1/1.0.0": {
+        "runtime": {
+          "Bai034_NETWORKING1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai034_NETWORKING1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+G:\Project\LearnCsharpWithXT\Theory\Bai034_NETWORKING1\bin\Debug\net5.0\Bai034_NETWORKING1.exe
+G:\Project\LearnCsharpWithXT\Theory\Bai034_NETWORKING1\bin\Debug\net5.0\Bai034_NETWORKING1.deps.json
+G:\Project\LearnCsharpWithXT\Theory\Bai034_NETWORKING1\bin\Debug\net5.0\Bai034_NETWORKING1.runtimeconfig.json
+G:\Project\LearnCsharpWithXT\Theory\Bai034_NETWORKING1\bin\Debug\net5.0\Bai034_NETWORKING1.runtimeconfig.dev.json
+G:\Project\LearnCsharpWithXT\Theory\Bai034_NETWORKING1\bin\Debug\net5.0\Bai034_NETWORKING1.dll
+G:\Project\LearnCsharpWithXT\Theory\Bai034_NETWORKING1\bin\Debug\net5.0\ref\Bai034_NETWORKING1.dll
+G:\Project\LearnCsharpWithXT\Theory\Bai034_NETWORKING1\bin\Debug\net5.0\Bai034_NETWORKING1.pdb
+G:\Project\LearnCsharpWithXT\Theory\Bai034_NETWORKING1\obj\Debug\net5.0\Bai034_NETWORKING1.csproj.AssemblyReference.cache
+G:\Project\LearnCsharpWithXT\Theory\Bai034_NETWORKING1\obj\Debug\net5.0\Bai034_NETWORKING1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\LearnCsharpWithXT\Theory\Bai034_NETWORKING1\obj\Debug\net5.0\Bai034_NETWORKING1.AssemblyInfoInputs.cache
+G:\Project\LearnCsharpWithXT\Theory\Bai034_NETWORKING1\obj\Debug\net5.0\Bai034_NETWORKING1.AssemblyInfo.cs
+G:\Project\LearnCsharpWithXT\Theory\Bai034_NETWORKING1\obj\Debug\net5.0\Bai034_NETWORKING1.csproj.CoreCompileInputs.cache
+G:\Project\LearnCsharpWithXT\Theory\Bai034_NETWORKING1\obj\Debug\net5.0\Bai034_NETWORKING1.dll
+G:\Project\LearnCsharpWithXT\Theory\Bai034_NETWORKING1\obj\Debug\net5.0\ref\Bai034_NETWORKING1.dll
+G:\Project\LearnCsharpWithXT\Theory\Bai034_NETWORKING1\obj\Debug\net5.0\Bai034_NETWORKING1.pdb
+G:\Project\LearnCsharpWithXT\Theory\Bai034_NETWORKING1\obj\Debug\net5.0\Bai034_NETWORKING1.genruntimeconfig.cache
