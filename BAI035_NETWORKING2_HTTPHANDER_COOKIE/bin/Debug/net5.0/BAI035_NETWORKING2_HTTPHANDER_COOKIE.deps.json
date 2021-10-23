@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BAI035_NETWORKING2_HTTPHANDER_COOKIE/1.0.0": {
+        "runtime": {
+          "BAI035_NETWORKING2_HTTPHANDER_COOKIE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BAI035_NETWORKING2_HTTPHANDER_COOKIE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
