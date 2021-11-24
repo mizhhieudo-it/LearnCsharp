@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0yVzEKyc+kLmNSUCzBCVAxn5+MLaJ2NoG2FEcR6pP9Jcc2lWtQ9z1Hi6WT50J0xNoBEaZBTGXp6+NK3P1KFsMw==",
+  "success": true,
+  "projectFilePath": "G:\\Project\\LearnCsharpWithXT\\Theory\\Bai046_TichHopWebPack_ReadHttpRequest_Cookie_Json\\Bai046_TichHopWebPack_ReadHttpRequest_Cookie_Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Do Minh Hieu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -23,6 +23,7 @@ namespace Bai045_MiddlewareAndPipeline
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             app.UseStaticFiles();
+            app.UseMiddleware<FMidFMiddleware>();
             app.UseMiddleware<SecondMiddleware>();
             app.UseRouting(); // EndpointRouting
             // sử dụng Endpont 
