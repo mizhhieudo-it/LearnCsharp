@@ -1,0 +1,14 @@
+@page "/trang-dau-tien2/{abc:int?}" 
+@* // nạp các TagHelper sử dụng *,Micriosoft.AspNetCore.MVC.TagHelper *@
+ @* // int là rằng buột . dấu ? là có cũng đc  *@
+ @addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+<h1>Đây là trang wb đầu tiên</h1>
+<p>Hoc Lap trinh ASP.NET Core (<strong>@System.DateTime.Now</strong></p>)
+@{
+    var a = 2 ;
+    <p> căn bật hai cua @a la @Math.Sqrt(a)</p> 
+    @* đọc số lần lặp thông tin trên route ; *@
+    var showMess  = this.Request.RouteValues["abc"];
+    <p>@showMess</p>
+}
+<a asp-page="Google.com">click</a>
